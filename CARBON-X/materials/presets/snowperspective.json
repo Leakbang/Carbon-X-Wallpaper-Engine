@@ -1,0 +1,15 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "additive",
+			"combos" : {},
+			"constantshadervalues" : {},
+			"cullmode" : "nocull",
+			"depthtest" : "enabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericparticle",
+			"textures" : [ "particle/carbon" ]
+		}
+	]
+}
