@@ -1,6 +1,6 @@
 # Carbon X  
 
-Dynamic Wallpaper heavily inspired by Need For Speed: Carbon with lots of customization options. Works fine with all aspect ratios.  
+Dynamic Wallpaper heavily inspired by Need For Speed: Carbon with lots of customization options.  
 
 ## Installation
 
