@@ -1,6 +1,6 @@
 {
 	"contentrating" : "Everyone",
-	"description" : "Dynamic Wallpaper heavily inspired by Need For Speed: Carbon with lots of customization options. Works fine with all aspect ratios.\nSource files:",
+	"description" : "Dynamic Wallpaper heavily inspired by Need For Speed: Carbon with lots of customization options. Works fine with all aspect ratios.\r\nSource files: [url=https://github.com/Leakbang/Carbon-X-Wallpaper-Engine] On Github [/url] \r\nOriginal Version by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1724356277] V1t3r[/url]",
 	"file" : "scene.json",
 	"general" : 
 	{
@@ -96,10 +96,10 @@
 			}
 		}
 	},
-	"preview" : "preview.jpg",
+	"preview" : "preview.gif",
 	"tags" : [ "Abstract" ],
 	"title" : "Carbon X",
 	"type" : "scene",
-	"visibility" : "friends",
+	"visibility" : "public",
 	"workshopid" : "1832235941"
 }
